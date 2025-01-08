@@ -27,13 +27,13 @@ const cards = [
   {
     heading: "Doesn't break your bank",
     description:
-      "Madara is the only ZK rollup stack that won't break your bank. Achieve hundreds of TPS, settle within hours instead of days, and get the highest security—all without paying millions per year.",
+      "Achieve hundreds of TPS, settle within hours instead of days, and get the highest security—all without paying millions per year.",
     image: a2,
   },
   {
     heading: "Seamless composability",
     description:
-      "With Stwo and real-time proving, Madara chains can leverage near-instant composability with the base layer and other app chains.",
+      "With Stwo, Madara chains can leverage near-instant composability with the base layer and other app chains.",
     image: a3,
   },
   {
@@ -76,7 +76,11 @@ const Card = ({
     <div className="about-card opacity-0 flex h-[360px] flex-col text-left items-center rounded-2xl isolate">
       <div className="maast-border-inner overflow-hidden pt-3">
         <div className="h-[180px] flex justify-center">
-          <Image src={item.image} alt={item.heading} style={{ objectFit: 'contain' }} />
+          <Image
+            src={item.image}
+            alt={item.heading}
+            style={{ objectFit: "contain" }}
+          />
         </div>
         <div className="p-3 pt-4 pl-4">
           <h4 className="text-xl font-medium text-white pb-4 text-left">
