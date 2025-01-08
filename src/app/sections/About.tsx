@@ -21,37 +21,37 @@ const cards = [
   {
     heading: "Designed to be faster",
     description:
-      "Cairo has been designed to be ZK friendly since day one. This makes it faster and cheaper to prove compared to any other alternative.",
+      "Cairo has been designed to be ZK-friendly since day one, making it faster and cheaper to prove than any alternative.",
     image: a1,
   },
   {
-    heading: "Focus on decentralisation",
+    heading: "Doesn't break your bank",
     description:
-      "Madara is focused on building a decentralised future. All Madara chains can choose their level of decentralisation, consensus algorithms and access levels.",
+      "Madara is the only ZK rollup stack that won't break your bank. Achieve hundreds of TPS, settle within hours instead of days, and get the highest security—all without paying millions per year.",
     image: a2,
   },
   {
     heading: "Seamless composability",
     description:
-      "All chains built on the Madara stack can opt-in for fast composability. Communication across chains should be as easy as making smart contract calls!",
+      "With Stwo and real-time proving, Madara chains can leverage near-instant composability with the base layer and other app chains.",
     image: a3,
   },
   {
     heading: "Batch proofs across chains",
     description:
-      "While Cairo is the most efficient language for proving, prover costs can still be high. Madara chains can choose to batch proofs with others to save costs.",
+      "While Cairo is the most efficient language for proving, prover costs can still be significant. Madara chains can batch proofs together to reduce costs.",
     image: a4,
   },
   {
     heading: "Optimized for the best DX",
     description:
-      "Madara is built on top of the Substrate framework. This not only makes it modular but also gives it access to years of dev tooling and packages.",
+      "Madara is built from the ground up with diverse application needs in mind. The result is a modular design where new integrations require just a few lines of code.",
     image: a5,
   },
   {
     heading: "Fastest growing ecosystem",
     description:
-      "Starknet not only has one of the biggest ecosystems compared to its alternatives but also is one of the fastest growing developer communities in all of blockchain.",
+      "Starknet has one of the largest ecosystems among alternatives and stands as one of the fastest-growing developer communities across all blockchains.",
     image: a6,
   },
 ];

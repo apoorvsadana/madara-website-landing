@@ -24,13 +24,6 @@ const navItems = [
     text: "Socials",
     link: "#footer",
   },
-  {
-    text: "Sharingan",
-    link: "https://sharingan.madara.build/",
-    newTab: true,
-    className:
-      "text-[#FF7F79] hover:text-[#BF383C] transition-colors duration-300 ease-in-out",
-  },
 ];
 
 const Navbar = () => {
@@ -150,11 +143,11 @@ const Navbar = () => {
 
               <div className="flex items-center gap-x-4 mt-auto">
                 <Link
-                  href="https://github.com/madara-alliance/madara"
+                  href="https://t.me/MadaraStarknet"
                   target="_blank"
                 >
                   <button className="bg-[#BF383C] border-[1.5px] border-[#C77475] flex items-center px-5 py-2 rounded-[32px]">
-                    Contribute
+                    Talk to us
                   </button>
                 </Link>
                 <Link
@@ -203,11 +196,11 @@ const Navbar = () => {
                 Build now
               </Link>
               <Link
-                href="https://github.com/madara-alliance/madara"
+                href="https://t.me/MadaraStarknet"
                 target="_blank"
               >
                 <button className="bg-[#BF383C] border-[1.5px] border-[#C77475] flex items-center px-5 py-2 rounded-[32px]">
-                  Contribute
+                  Talk to us
                 </button>
               </Link>
             </div>
