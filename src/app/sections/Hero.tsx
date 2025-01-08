@@ -29,7 +29,7 @@ const Hero = () => {
           </Link>
           <Link
             className="z-[1]"
-            href="https://t.me/MadaraStarknet"
+            href="https://forms.reform.app/starkware/sn-stack-talk-to-us-form-madara/j30jy0"
             target="_blank"
           >
             <button className="px-6 md:px-5 py-2 md:w-[150px] md:py-3 text-center text-base md:text-xl bg-white/[0.09] text-[#FEE3E3] border-2 md:border-4 border-[#f75c5c]/[0.34] rounded-xl md:rounded-xl">

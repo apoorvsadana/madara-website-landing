@@ -143,7 +143,7 @@ const Navbar = () => {
 
               <div className="flex items-center gap-x-4 mt-auto">
                 <Link
-                  href="https://t.me/MadaraStarknet"
+                  href="https://forms.reform.app/starkware/sn-stack-talk-to-us-form-madara/j30jy0"
                   target="_blank"
                 >
                   <button className="bg-[#BF383C] border-[1.5px] border-[#C77475] flex items-center px-5 py-2 rounded-[32px]">
@@ -196,7 +196,7 @@ const Navbar = () => {
                 Build now
               </Link>
               <Link
-                href="https://t.me/MadaraStarknet"
+                href="https://forms.reform.app/starkware/sn-stack-talk-to-us-form-madara/j30jy0"
                 target="_blank"
               >
                 <button className="bg-[#BF383C] border-[1.5px] border-[#C77475] flex items-center px-5 py-2 rounded-[32px]">
